@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1015001978773",
+    "firebase_url": "https://ferks-57183.firebaseio.com",
+    "project_id": "ferks-57183",
+    "storage_bucket": "ferks-57183.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015001978773:android:c100f13e8330d4c1",
+        "android_client_info": {
+          "package_name": "com.applybytes.ferks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015001978773-gi44vjjqqugocleg5lnn3480l7v3scof.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.applybytes.ferks",
+            "certificate_hash": "d4aef168b19bde751e94ed005652b460590e42ff"
+          }
+        },
+        {
+          "client_id": "1015001978773-sqi8cacodqut6ofgincd8tb1n4vkt7h8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAJQX5Zf8GUknnd5E_H_fLZASKMYF9vBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015001978773-sqi8cacodqut6ofgincd8tb1n4vkt7h8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1015001978773-p9hingvrv3vjh07haqjil5ep6gd9054k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.applybytes.ferks"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
